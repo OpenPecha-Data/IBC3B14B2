@@ -1,0 +1,103 @@
+id: IBC3B14B2
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T11:33:11.082595'
+last_modified: '2022-06-17T11:33:11.082606'
+parser: null
+source_metadata:
+  title: Compendium of Sādhanas
+  language: en
+  description: 'Texts belonging to (and related to) the Compendium of Sādhanas (sgrub
+    thabs kun btus), a collection originally compiled by Jamyang Khyentse Wangpo (1820–1892)
+    and later supplemented by Jamyang Loter Wangpo (1847–1914). Note that the volume
+    numbers below correspond to the fourteen-volume Derge edition (reproduced by Dzongsar
+    Institute):'
+  volume:
+    fA404:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      base_file: fA404.txt
+      order: 1
+      parent: Volume One
+    fFBA4:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      base_file: fFBA4.txt
+      order: 2
+      parent: Volume One
+    fA2AB:
+      title: 'Bestower of the Light of Intelligence: A Prayer to the Lineage of the
+        Profound Sādhana Based Upon the Praise to Venerable Mañjughoṣa'
+      base_file: fA2AB.txt
+      order: 3
+      parent: Volume Two
+    f6F6B:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: f6F6B.txt
+      order: 4
+      parent: Volume Three
+    f7417:
+      title: Concise Seven-Heap Maṇḍala Offering
+      base_file: f7417.txt
+      order: 5
+      parent: Volume Three
+    f5086:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      base_file: f5086.txt
+      order: 6
+      parent: Volume Three
+    f2076:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      base_file: f2076.txt
+      order: 7
+      parent: Volume Three
+    f4C5C:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      base_file: f4C5C.txt
+      order: 8
+      parent: Volume Twelve
+    f70A8:
+      title: The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma)
+      base_file: f70A8.txt
+      order: 9
+      parent: Volume Thirteen
+    fEFF8:
+      title: A Brief Prayer to the Precious Master Padmākara for Swiftly Fulfilling
+        Wishes
+      base_file: fEFF8.txt
+      order: 10
+      parent: Volume Thirteen
+    f240F:
+      title: An Aspiration Prayer
+      base_file: f240F.txt
+      order: 11
+      parent: Volume Fourteen
+    f544B:
+      title: Prayer for Dispelling Famine
+      base_file: f544B.txt
+      order: 12
+      parent: Volume Fourteen
+    f7785:
+      title: Prayer of Truthful Words to Pacify the Fear of War
+      base_file: f7785.txt
+      order: 13
+      parent: Volume Fourteen
+    fBD86:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      base_file: fBD86.txt
+      order: 14
+      parent: Volume Fourteen
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
